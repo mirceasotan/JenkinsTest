@@ -1,3 +1,3 @@
-pipeline {
-    echo "Inside pipeline script"
+node {
+   echo 'Hello Mircea'
 }
